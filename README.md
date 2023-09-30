@@ -9,4 +9,5 @@
   <li>CSS</li>
   <li>GIT/GITHUB</li>
 </ul>
-![clone twitter](https://github.com/HamzaHamani/-OLD-twitter-clone/assets/102440542/4f9c55f2-e3be-45b6-8465-7b49690901fb)
+
+![clone twitter](https://github.com/HamzaHamani/-OLD-twitter-clone/assets/102440542/c7a36999-dbf4-46ec-a564-512f66134d0b)
